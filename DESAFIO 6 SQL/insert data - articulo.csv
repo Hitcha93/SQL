@@ -1,0 +1,42 @@
+id_articulo,nombre_articulo,descripcion,stock,cantidad,id_talle,id_precio,id_color
+1,Ross,short elastizado con rotura,VERDADERO,15,1,1,1
+2,Ross,short elastizado con rotura,FALSE,0,2,1,1
+3,Ross,short elastizado con rotura,VERDADERO,15,3,1,1
+4,Ross,short elastizado con rotura,VERDADERO,15,4,1,1
+5,California,chupin clasico c/ bolsillo,VERDADERO,30,1,4,1
+6,California,chupin clasico c/ bolsillo,VERDADERO,30,2,4,1
+7,California,chupin clasico c/ bolsillo,FALSO,0,3,4,1
+8,California,chupin clasico c/ bolsillo,VERDADERO,30,4,4,1
+9,Dakota,Super Oxford Rosa,VERDADERO,25,5,10,3
+10,Dakota,Super Oxford Rosa,VERDADERO,25,6,10,3
+11,Dakota,Super Oxford Rosa,FALSO,0,7,10,3
+12,Ottawa,chupin con ruedo blanco,VERDADERO,20,1,8,5
+13,Ottawa,chupin con ruedo blanco,VERDADERO,20,2,8,5
+14,Vancouver,chupin con ruedo negro,VERDADERO,20,1,8,4
+15,Vancouver,chupin con ruedo negro,VERDADERO,20,2,8,4
+16,Lena,chupin con rotura tiro bajo gris oscuro,VERDADERO,30,1,5,9
+17,Lena,chupin con rotura tiro bajo gris oscuro,VERDADERO,30,2,5,9
+18,Lena,chupin con rotura tiro bajo gris oscuro,VERDADERO,30,3,5,9
+19,Lolo,chupin con estampa bolsillo ciego color,FALSE,0,1,6,6
+20,Lolo,chupin con estampa bolsillo ciego color,FALSE,0,2,6,6
+21,Lolo,chupin con estampa bolsillo ciego color,FALSE,0,3,6,6
+22,Marylin,talle especial con apliques gris,VERDADERO,5,5,9,7
+23,Marylin,talle especial con apliques gris,VERDADERO,5,6,9,7
+24,Marylin,talle especial con apliques gris,VERDADERO,5,7,9,7
+25,Pampa,semi oxford elastizado,VERDADERO,25,1,7,1
+26,Pampa,semi oxford elastizado,VERDADERO,25,2,7,1
+27,Pampa,semi oxford elastizado,VERDADERO,25,3,7,1
+28,Pampa,semi oxford elastizado,VERDADERO,25,4,7,1
+29,Lara,Short Desflecado,VERDADERO,50,1,3,2
+30,Lara,Short Desflecado,VERDADERO,50,2,3,2
+31,Lara,Short Desflecado,VERDADERO,50,3,3,2
+32,Margaret,Wide leg con bigote,TRUE,100,2,8,8
+33,Margaret,Wide leg con bigote,FALSE,0,2,8,8
+34,Margaret,Wide leg con bigote,FALSE,0,2,8,8
+35,Rocio,Chupin clasico stone localizado,TRUE,25,1,5,1
+36,Rocio,Chupin clasico stone localizado,TRUE,25,2,5,1
+37,Rocio,Chupin clasico stone localizado,TRUE,25,3,5,1
+38,Rocio,Chupin clasico stone localizado,TRUE,25,4,5,1
+39,Rocio,Chupin clasico stone localizado,TRUE,25,5,5,1
+40,Rocio,Chupin clasico stone localizado,TRUE,25,6,5,1
+41,Rocio,Chupin clasico stone localizado,TRUE,25,7,5,1
