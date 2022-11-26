@@ -49,7 +49,7 @@ end if;
 return (stock_level);
 end$$
 delimiter ;
-select nombre_articulo, ifnull(stock_level(cantidad),'none') as `convert_null_to_none` from articulos;
+select nombre_articulo, ifnull(stock_level(cantidad),'none') as `stock_level` from articulos;
 show function status where db = 'jeans_online';
 
 
